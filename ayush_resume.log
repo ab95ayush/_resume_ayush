@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.25)  25 MAY 2015 21:29
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.25)  25 MAY 2015 21:40
 entering extended mode
 **ayush_resume.tex
 (C:\Users\sony\Desktop\resume\ayush_resume.tex
@@ -231,24 +231,36 @@ File: 001.jpg Graphic file (type jpg)
  <use 001.jpg>
 Package pdftex.def Info: 001.jpg used on input line 12.
 (pdftex.def)             Requested size: 85.35612pt x 113.80971pt.
- [1
+LaTeX Font Info:    Try loading font information for U+msa on input line 35.
+
+(E:\MiKTex\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 35.
+ (E:\MiKTex\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (1.7593pt too wide) in paragraph at lines 35--45
+[][]  
+ []
+
+[1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/sony/Desktop/res
-ume/001.jpg>]
-(C:\Users\sony\Desktop\resume\ayush_resume.aux) ) 
+ume/001.jpg>] (C:\Users\sony\Desktop\resume\ayush_resume.aux) ) 
 Here is how much of TeX's memory you used:
- 2512 strings out of 493921
- 31128 string characters out of 3154503
- 90076 words of memory out of 3000000
- 5808 multiletter control sequences out of 15000+200000
- 4721 words of font info for 18 fonts, out of 3000000 for 9000
+ 2539 strings out of 493921
+ 31503 string characters out of 3154503
+ 92076 words of memory out of 3000000
+ 5822 multiletter control sequences out of 15000+200000
+ 6420 words of font info for 26 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,4n,24p,253b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
-<E:/MiKTex/fonts/type1/public/
-amsfonts/cm/cmbx10.pfb><E:/MiKTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:
-/MiKTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/MiKTex/fonts/type1/public/
-amsfonts/cm/cmtt10.pfb>
-Output written on ayush_resume.pdf (1 page, 97938 bytes).
+ 27i,6n,24p,253b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
+<E:/MiKTex/fonts
+/type1/public/amsfonts/cm/cmbx10.pfb><E:/MiKTex/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb><E:/MiKTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/MiKTex/fonts
+/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on ayush_resume.pdf (1 page, 103124 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
